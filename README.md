@@ -63,3 +63,8 @@ Analyze sales data to identify factors affecting profitability, focusing on disc
 ### Dashboard Access
 
 Download the `.pbix` file from the repository and open it using Power BI Desktop to explore the dashboard.
+
+---
+
+## Business Impact  
+This analysis helps businesses improve profitability by optimizing discount strategies and focusing on high-performing regions and products.
